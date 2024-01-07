@@ -3,6 +3,8 @@
 
 [![Made with Clipchamp](https://clipchamp.com/e.svg)](https://clipchamp.com/watch/Do9UOciGzYv?utm_source=embed&utm_medium=embed&utm_campaign=watch)
 
+https://clipchamp.com/watch/Do9UOciGzYv?utm_source=share&utm_medium=social&utm_campaign=watch
+
 # URL Shortener
 
 ## Introduction
