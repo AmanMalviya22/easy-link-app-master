@@ -55,35 +55,35 @@ This project is a URL shortener application that allows users to create shortene
 ## Getting Started
 
 **clone the repo using command**
-git clone https://github.com/AmanMalviya22/easy-link-app-master/edit/main/
+***git clone https://github.com/AmanMalviya22/easy-link-app-master/edit/main/***
 
 **open teminal and change directory to client**
- cd path_to_client/folder
+ ***cd path_to_client/folder***
  **run below command**
- yarn install
+***yarn install***
 
 **open teminal and change directory to server**
- cd path_to_server/folder
+ ***cd path_to_server/folder***
  **run below command**
- yarn install
+***yarn install***
 
  **create a .env file and put the following variable**
 
-PORT=''
-MONGO_URL=''
-JWT_SECRET=''
-SESSION_SECRET=''
+***PORT=''***
+***MONGO_URL=''***
+***JWT_SECRET=''***
+***SESSION_SECRET=''***
 
 **RUN COMMAND**
 **open teminal and change directory to client**
- cd path_to_client/folder
+ ***cd path_to_client/folder***
  **run below command**
- yarn start
+ ***yarn start***
 
 **open teminal and change directory to server**
- cd path_to_server/folder
+ ***cd path_to_server/folder***
  **run below command**
- yarn start
+ ***yarn start***
 
 
  **open browser and make request to the following url**
