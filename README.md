@@ -118,36 +118,3 @@ http://localhost:3000
 
 
 
-**open teminal and change directory to client**
- ***cd path_to_client/folder***
- **run below command**
-***yarn install***
-
-**open teminal and change directory to server**
- ***cd path_to_server/folder***
- **run below command**
-***yarn install***
-
- **create a .env file and put the following variable**
-
-***PORT=''***
-***MONGO_URL=''***
-***JWT_SECRET=''***
-***SESSION_SECRET=''***
-
-**RUN COMMAND**
-**open teminal and change directory to client**
- ***cd path_to_client/folder***
- **run below command**
- ***yarn start***
-
-**open teminal and change directory to server**
- ***cd path_to_server/folder***
- **run below command**
- ***yarn start***
-
-
- **open browser and make request to the following url**
- ## localhost:3000
-
-
