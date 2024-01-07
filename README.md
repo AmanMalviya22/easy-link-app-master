@@ -13,7 +13,7 @@ This project is a URL shortener application that allows users to create shortene
 -**Easy-link-app-master/**
 - **client/**
   - **public/**
-   - - **assets/**
+     - - **assets/**
      - -**images/**
   - **src/**
     - **components/**
@@ -24,29 +24,28 @@ This project is a URL shortener application that allows users to create shortene
     - **util/**
 - **server/**
   - **src/**    
-   - - **config/**
-     -- - **db.ts**
-     - - **middlewares/**
-        -- - **authToken.ts**
-     - -  **models/**
-      -- - **userModel.ts**
-      -- - **urlModel.ts**
-       - -**routes/**
-     -- - **authRouter.ts**
-     -- - **index.ts**
-     -- - **urlRoute.ts**
-     -- - **userRouter.ts**
-   - -**services/**
-      -- - **urlServices.ts**
-      -- - **userServices.ts**
-   - -**types/**
-      -- **express/**
-        -- - **index.ts**
-        -- - **urlTypes.ts**
-        -- - **userTypes.ts.ts**   
-   - -**util/**
-    - Helper functions and utilities.
-       -- **app.ts**
+    - **config/**
+     - - **db.ts**
+    - **middlewares/**
+        - - **authToken.ts**
+    - **models/**
+      - - **userModel.ts**
+      - - **urlModel.ts**
+     - **routes/**
+     - -  **authRouter.ts**
+     - -  **index.ts**
+     - -  **urlRoute.ts**
+     - -  **userRouter.ts**
+     - **services/**
+      - - **urlServices.ts**
+      - -  **userServices.ts**
+     - **types/**
+      - **express/**
+        - - **index.ts**
+        - -  **urlTypes.ts**
+        - - **userTypes.ts.ts**   
+     - **util/**
+       - - **app.ts**
 
 
 
