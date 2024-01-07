@@ -54,8 +54,69 @@ This project is a URL shortener application that allows users to create shortene
 
 ## Getting Started
 
-**clone the repo using command**
-***git clone https://github.com/AmanMalviya22/easy-link-app-master/edit/main/***
+# Easy Link App
+
+## Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/AmanMalviya22/easy-link-app-master/edit/main/
+
+
+## set up client
+# Change directory to the client folder
+cd path_to_client/folder
+
+# Install dependencies
+yarn install
+
+
+## set up server
+
+# Change directory to the server folder
+cd path_to_server/folder
+
+# Install dependencies
+yarn install
+
+### Create Environment Variables
+***Create a .env file in the server directory and add the following variables:***
+
+PORT=''
+MONGO_URL=''
+JWT_SECRET=''
+SESSION_SECRET=''
+
+
+
+Run the Application
+Start the Client
+
+# Change directory to the client folder
+cd path_to_client/folder
+
+# Run the client
+yarn start
+
+### start the server
+# Change directory to the server folder
+cd path_to_server/folder
+
+# Run the server
+yarn start
+
+
+Access the Application
+Open your browser and make a request to the following URL:
+
+
+http://localhost:3000
+
+
+
+
+
 
 **open teminal and change directory to client**
  ***cd path_to_client/folder***
