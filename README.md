@@ -24,27 +24,27 @@ This project is a URL shortener application that allows users to create shortene
     - **util/**
 - **server/**
   - **src/**    
-   - **config/**
+   - - **config/**
      -- - **db.ts**
-   - **middlewares/**
+     - - **middlewares/**
         -- - **authToken.ts**
-   - **models/**
+     - -  **models/**
       -- - **userModel.ts**
       -- - **urlModel.ts**
-   - **routes/**
+       - -**routes/**
      -- - **authRouter.ts**
      -- - **index.ts**
      -- - **urlRoute.ts**
      -- - **userRouter.ts**
-   - **services/**
+   - -**services/**
       -- - **urlServices.ts**
       -- - **userServices.ts**
-   - **types/**
+   - -**types/**
       -- **express/**
         -- - **index.ts**
         -- - **urlTypes.ts**
         -- - **userTypes.ts.ts**   
-   - **util/**
+   - -**util/**
     - Helper functions and utilities.
        -- **app.ts**
 
