@@ -3,7 +3,11 @@
 
 [![Made with Clipchamp](https://clipchamp.com/e.svg)](https://clipchamp.com/watch/Do9UOciGzYv?utm_source=embed&utm_medium=embed&utm_campaign=watch)
 
+# URL Shortener
 
+## Introduction
+
+This project is a URL shortener application that allows users to create shortened versions of long URLs. It provides a user-friendly interface with features such as user authentication, profile management, and short URL management.
 ## Folder Structure
 
 - **src/**
